@@ -1,0 +1,10 @@
+.header_search_field::placeholder{
+    position: 'relative';
+    font-size: .85rem;
+}
+
+.header_search_field_icon{
+    border-radius: 10px 0 0 10px !important;
+    background-color: #ffffff;
+    border-right: 0 !important;
+}

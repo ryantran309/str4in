@@ -1,0 +1,39 @@
+a{
+    color: #343a40;
+    text-decoration: none !important;
+}
+
+.workspace_list{
+    color: #b0b0b0;
+    font-size: 15px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    margin-bottom: 13px !important;
+    padding-left: 25px;
+    cursor: pointer;
+}
+.workspace_list i{
+    vertical-align: text-top;
+    font-size: 10px;
+    margin-right: 10px;
+}
+#add_workspace_modal_btn{
+    background-color: #ffffff;
+    border: 0;
+    cursor: pointer;
+}
+#workspace_see_more_btn{
+    margin-left: 25px;
+    color: #3caedf;
+    font-weight: 600;
+    cursor: pointer;
+}
+.logout_btn{
+    color: #ffffff !important;
+    background-color: #242f9b;
+    border-radius: 5px;
+}
+.workspace_list_h:hover{
+    color: #242f9b;
+}
